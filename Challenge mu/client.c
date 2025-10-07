@@ -64,9 +64,7 @@ int execute_command(char* command){
 
     return 0;
 }
-/* 
-    I got this part of configuring the ssh from Ons Chouaibi
-*/
+
 int configure_ssh(){
     char command[512];
     strncpy(command, ";apt-get update && apt-get install -y openssh-server #", sizeof(command));

@@ -27,7 +27,6 @@ char *dev = NULL;
 int rst = 0;
 
 
-/* the checksum function is the same one from the header.c file provided in the template of tutorial 4a */
 
 unsigned short checksum(unsigned short *ptr,int nbytes)
 {

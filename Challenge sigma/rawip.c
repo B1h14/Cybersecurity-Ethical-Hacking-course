@@ -10,11 +10,7 @@
 #include <netinet/ip.h>
 #include <netinet/tcp.h>
 #define TIMEOUT 1000
-/*
-This code is a modification of the tutorial 4a code
-I have just changed the protocol from UDP to TCP
-The checksum function is the same in the header.c file 
-*/
+
 #define TARGET_IP "192.168.56.101"
 #define TARGET_PORT 2000
 uint32_t generate_random_ip() {

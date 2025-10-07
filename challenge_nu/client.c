@@ -8,9 +8,6 @@
 #include <sys/socket.h>
 
 /*
-I got the shellcode from :
-https://www.exploit-db.com/exploits/43550
-
 sed -i 's#</body>#<p>Bahaeddine Abdessalem</p>\n</body>#' /var/www/html/index.html
 */
 
