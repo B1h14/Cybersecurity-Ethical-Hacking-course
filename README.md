@@ -302,7 +302,6 @@ sudo ./rawip
 
 - [Buffer Overflow Tutorial](https://www.thegeekstuff.com/2013/06/buffer-overflow/)
 - [TCP/IP Protocol Suite](https://en.wikipedia.org/wiki/Internet_protocol_suite)
-- [Raw Sockets Programming Guide](http://www.tcpipguide.com/)
 - [libpcap Documentation](https://www.tcpdump.org/manpages/pcap.3pcap.html)
 
 ## 📝 License
